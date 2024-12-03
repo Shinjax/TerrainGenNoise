@@ -8,6 +8,7 @@
 [Uu]ser[Ss]ettings/
 
 # VS/Rider/MD/Consulo solution and project files
+.vs/
 ExportedObj/
 .consulo/
 *.csproj
